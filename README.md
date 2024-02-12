@@ -1,2 +1,3 @@
 # Count-Track-Cows
-This repository aims counting cows and tracking their trajectories.
+This repository aims to count cows and track their trajectories.
+Coming Soon...
